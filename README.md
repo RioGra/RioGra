@@ -18,7 +18,7 @@
 - User Experience (UX) Design Principals
 
  ## Projects 
-🔗[Solo Interacive web debut]()
+🔗[Interacive webdev debut](https://github.com/RioGra/interactive-webdev-debut/blob/04e18301d35cde2de5d3bf3bd66a67c4a847e965/README.md)
 🔗[Group Project intro to web dev]()
 
  ## Lets connect!
