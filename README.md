@@ -1,4 +1,4 @@
-# Hi, Im Gráinne! 👋
+# Hi, I'm Gráinne! 👋
 
 ## About Me
 - 👩‍💻 Aspiring front-end developer sharing my journey and learnings in tech
