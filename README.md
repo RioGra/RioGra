@@ -18,8 +18,8 @@
 - User Experience (UX) Design Principals
 
  ## Projects 
-🔗[Solo Interacive web debut]( https://riogra.github.io/interactive-webdev-debut)
-🔗[Group Project intro to web dev](https://riogra.github.io/webdev-iceland-teamproject-website.github.io/)
+🔗[Solo Interacive web debut]()
+🔗[Group Project intro to web dev]()
 
  ## Lets connect!
 🔗 www.linkedin.com/in/grainne
