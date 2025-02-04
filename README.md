@@ -3,7 +3,7 @@
 ## About Me
 - 👩‍💻 Aspiring front-end developer sharing my journey and learnings in tech
 - 🌱 Learning with Code First Girls
-- 💻 Building interactive web experiences
+- 💻 Building stunning interactive web experiences
 - 🤝 Previously worked in retail buying, design and product devlopment
 - 🪴 Horticulturist, obsessed with plants!
 - 🌏 Adventurous, curious and always ready to explore 🌏🚀
@@ -11,11 +11,15 @@
   
 ## Tech Skills
 - HTML, CSS and JavaScript
-- Currently expanding my forn-end development tookit
-- Completed first solo build of an interactive website
+- Currently expanding my front-end development tookit
+- Wireframing
+- Low-Fidelity Prototyping
+- Design Tools: draw.io
+- User Experience (UX) Design Principals
 
  ## Projects 
-
+-🔗 
 
  ## Lets connect!
+-🔗
 
