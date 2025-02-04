@@ -19,7 +19,7 @@
 
  ## Projects 
 🔗[Solo Interacive web debut]( https://riogra.github.io/interactive-webdev-debut)
-🔗[Group Project intro to web dev] 
+🔗[Group Project intro to web dev]()
 
  ## Lets connect!
 🔗
