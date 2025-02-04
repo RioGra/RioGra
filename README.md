@@ -22,5 +22,5 @@
 🔗[Group Project intro to web dev](https://riogra.github.io/webdev-iceland-teamproject-website.github.io/)
 
  ## Lets connect!
-🔗 wwww.linkedin.com/in/grainne
+🔗 www.linkedin.com/in/grainne
 
