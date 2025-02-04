@@ -11,7 +11,7 @@
   
 ## Tech Skills
 - HTML, CSS and JavaScript
-- Currently expanding my front-end development tookit
+- Currently expanding my front-end development toolkit
 - Wireframing
 - Low-Fidelity Prototyping
 - Design Tools: draw.io
