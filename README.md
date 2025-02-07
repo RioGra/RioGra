@@ -21,5 +21,5 @@
 🔗[Intro to web development group project](https://github.com/RioGra/webdev-iceland-teamproject-website.github.io/blob/468eb8efc1fc5e90a1fb8b9a41be4b8cd54e0d0b/README.md)
 
  ## Lets connect!
-🔗 www.linkedin.com/in/grainne-riordan
+🔗 www.linkedin.com/in/gráinne-riordan
 
