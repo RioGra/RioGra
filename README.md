@@ -1,7 +1,7 @@
 # Hi, I'm Gráinne! 👋
 
 ## About Me
-- 👩‍💻 Aspiring front-end developer sharing my learning journey in tech
+- 👩‍💻 Aspiring full-stack developer sharing my learning journey in tech
 - 🌱 Learning with Code First Girls
 - 💻 Building interactive web experiences
 - 🤝 Previously worked in retail buying, e-commerce, design and product devlopment
@@ -10,11 +10,10 @@
 - 😆 Fun fact: Can leap from planes and bridges yet somehow find escalators mysteriously challenging!
   
 ## Tech Skills
-- HTML, CSS and JavaScript
+- HTML,CSS and JavaScript
 - Currently expanding my front-end development toolkit
-- Wireframing
-- Low-Fidelity Prototyping
-- Design Tools: draw.io
+- Basic Python knowledge; eager to deepen expertise in server-side technologies
+- Wireframing and Low-Fidelity Prototyping; Design Tools: draw.io
 - User Experience (UX) Design Principals
 
  ## Projects 
