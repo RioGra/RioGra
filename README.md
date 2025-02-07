@@ -1,10 +1,10 @@
 # Hi, I'm Gráinne! 👋
 
 ## About Me
-- 👩‍💻 Aspiring front-end developer sharing my journey and learnings in tech
+- 👩‍💻 Aspiring front-end developer sharing my learning journey in tech
 - 🌱 Learning with Code First Girls
 - 💻 Building interactive web experiences
-- 🤝 Previously worked in retail buying, design and product devlopment
+- 🤝 Previously worked in retail buying, e-commerce, design and product devlopment
 - 🪴 Horticulturist, obsessed with plants!
 - 🌏 Adventurous, curious and always ready to explore 🌏🚀
 - 😆 Fun fact: Can leap from planes and bridges yet somehow find escalators mysteriously challenging!
